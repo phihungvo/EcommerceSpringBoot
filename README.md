@@ -1,6 +1,6 @@
 # EcommerceSpringBoot
 
-(Master to see code)
+(Master branch to see code)
 ## Tech Stack
 
 * Java
